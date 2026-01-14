@@ -23,42 +23,6 @@
   "sha": "462d803d6ba16b4ea8c80ae4b9741ae4e54bb2c3",
   "list_buyer": [
     {
-      "id": "6851921545",
-      "name": "Xven`zo 㕠",
-      "username": "Xvenzo",
-      "role": "ᴍᴇᴍʙᴇƦ"
-    },
-    {
-      "id": "7726353539",
-      "name": "- z for?",
-      "username": "ZyyTsune",
-      "role": "ᴍᴇᴍʙᴇƦ"
-    },
-    {
-      "id": "8064092635",
-      "name": "×͜× || 尺乇乙乙一緒",
-      "username": "ziistr",
-      "role": "ᴏᴡɴᴇƦ"
-    },
-    {
-      "id": "7476194064",
-      "name": "『𝗥𝟴』𝙇𝘼𝙉𝙂𝙕𝙕交",
-      "username": "Langzz31x",
-      "role": "ᴍᴇᴍʙᴇƦ"
-    },
-    {
-      "id": "1619141907",
-      "name": "alwaysfazz (limit)",
-      "username": "fazzstudent",
-      "role": "ᴍᴇᴍʙᴇƦ"
-    },
-    {
-      "id": "7720022578",
-      "name": "𝑅𝑒𝑧𝑖",
-      "username": "Alwaysrezz",
-      "role": "ƦᴇSSᴇʟᴇƦ"
-    },
-    {
       "id": "7973092286",
       "name": "⏤͟͟͞͞ARMUFA STORE⏤͟͟͞͞⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ",
       "username": "MYARMUFASTORE",
